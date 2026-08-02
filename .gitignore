@@ -1,0 +1,6 @@
+# Bỏ qua thư mục chứa các thư viện node_modules nặng
+node_modules/
+
+# Bỏ qua các file hệ thống tạm thời
+.DS_Store
+Thumbs.db
