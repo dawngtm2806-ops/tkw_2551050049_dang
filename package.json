@@ -1,0 +1,25 @@
+{
+  "name": "tkw_2551050049_dang",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dawngtm2806-ops/tkw_2551050049_dang#readme",
+  "bugs": {
+    "url": "https://github.com/dawngtm2806-ops/tkw_2551050049_dang/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawngtm2806-ops/tkw_2551050049_dang.git"
+  },
+  "license": "ISC",
+  "author": "TranMinhDang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./public/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
