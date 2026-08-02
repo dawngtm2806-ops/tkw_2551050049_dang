@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --color-brand-600: #000000;
+    --color-ink: #efecea;
+    --font-display: "Arial",sans-serif;
+    --font-body: "Arial",sans-serif;
+    --radius-card: 0.875rem;
+}
